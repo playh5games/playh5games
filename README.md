@@ -10,7 +10,7 @@
 
 ### 🔭 Current Projects
 <p align="center">
-  <a href="https://gmg-studio.com/game/550/goalio">
+  <a href="https://gmg-studio.com/play/goalio-unblocked-550">
     <img src="https://gmg-studio.com/images/goal-io-shooter-games.webp" 
          alt="Goal.io Demo" 
          width="240px" 
