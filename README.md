@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dung Thuy</h1>
+<h1 align="center">Hi 👋, I'm Hang Thanh</h1>
 <h3 align="center">🎮 HTML5 Game Developer | Unity & Java | Web Game & Marketing Tools Expert</h3>
 
 <p align="center">
